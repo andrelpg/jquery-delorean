@@ -104,7 +104,7 @@ $.ajax({
 });
 ```
     
-2)  **Manually manage your javscript objects**
+2)  **Manually manage your javascript objects**
 
 Adding this function to your javascript provides a middleware injection between delorean and your html.
 Remember that the function name **MUST** match your controller´s name.
